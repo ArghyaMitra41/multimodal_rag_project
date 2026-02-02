@@ -20,7 +20,14 @@
    export PERPLEXITY_API_KEY=your_key_here
    ```
 
-5. Run:
+5. Open Terminal:
+   ```
+   brew install tesseract
+   ```
+
+6. Run:
    ```
    streamlit run app.py
    ```
+
+7. Upload [Polpulation Pie Chart](multimodal_rag_project/Polpulation_Pie_Chart.jpg) and ask to Summarize
